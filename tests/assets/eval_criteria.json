@@ -1,0 +1,20 @@
+{
+    "summary":{
+        "coherence":"The collective quality of all sentences. The summary should be well-structured and well-organized. The summary should not just be a heap of related information, but should build from sentence to sentence to a coherent body of information about a topic.",
+        "factuality":"The factuality of the claims in the summary. Cross-reference the claims made with the source text. All claims and statements should be supported by the source text. Evaluate the occurance of hallucination within the summary.",
+        "informativeness":"The informativeness of the summary. The summary should provide the most critical ideas and information in the article. It should not ommit any key details. It should not remain unclear to the reader of the summary what the article is about."
+    },
+    "user_need":{
+        "analysis": "How accurate and insightful is the LLM's analysis of the article's topic and main message. The analysis should concern the most critical ideas as well as the main message of the article.",
+        "main drives":"How reasonable and well-justified are the scores assigned to each of the four basic needs (tiedä, ymmärrä, tunne, tee)? The analysis should be based on the four main user needs: know something, understand something, feel something, do something. The analysis should evaluate each main need and estimate the percentage of the article's content that addresses this main need on a scale of 1-100. The sum of the four main needs should be 100.",
+        "sub drives":"How reasonable and well-justified are the scores assigned to each of the sub needs (Anna neuvoja (Toimi), Luo yhteyksiä muihin (Toimi), Virkistä (Tunne), Aseta mittasuhteisiin, anna näkökulmaa (Ymmärrä), Sivistä (Ymmärrä), Inspiroi (Tunne), Kerro mitä tapahtui (Tiedä), Pidä minut ajan tasalla keskustelussa (Tiedä)) The analysis should evaluate each sub need and estimate the percentage of the article's content that addresses this sub need on a scale of 1-100. The sum of the eight sub needs should be 100, and the sum of each sub need based on a main need should be the same as the main need itself."
+    },
+    "tone":{
+        "relevancy": "Does the analysis refer to specific examples or observations that are actually present in the article? Are the examples cited meaningful and relevant to the tone assessment? Is the analysis based on concrete expressions (e.g., word choices, rhetorical devices, emotional content), or is it vague or based on assumptions?",
+        "accuracy": "Does the given tone label (positive, negative, neutral) reflect the overall tone of the article? Is the tone consistent throughout the article, or does it vary—and has this variation been taken into account in the analysis? Does the analysis consider nuances such as irony, mild criticism, or subtle praise?"
+    },
+    "theme_and_topics":{
+        "theme and topic relevance": "How accurately do the selected theme and topics reflect the central ideas of the article. A selection is considered relevant if it corresponds to a concept that appears repeatedly or underpins the article’s main arguments, rather than being a passing mention. The theme should consider the core of the article, while the topics can cover more of the secondary arguments as well. But all topics should still be relevant to the main arguments of the article.",
+        "internal consistency": "How well do the selected theme and topics match. The topics should be considered to be a part of the theme or clearly connected to the theme."
+    }
+}

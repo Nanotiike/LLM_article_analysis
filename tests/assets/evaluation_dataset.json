@@ -1,0 +1,947 @@
+{
+    "article 1": {
+        "people": [
+            "elisa nokelainen",
+            "elvi hautam\u00e4ki",
+            "iikka taavitsainen",
+            "j.s. bach",
+            "jasmin m\u00f6nkk\u00f6nen",
+            "ludwig van beethoven",
+            "niccolo paganini",
+            "niko nokelainen",
+            "pertti sutinen",
+            "petteri iivonen",
+            "sanna hannonen"
+        ],
+        "locations": [
+            "helsinki",
+            "jyv\u00e4skyl\u00e4",
+            "kuopio",
+            "kouvola",
+            "lahti",
+            "nummela",
+            "suomi",
+            "vihti",
+            "vihdin kirkko",
+            "sibelius-akatemia"
+        ],
+        "organisations": [
+            "kuopion kaupunginorkesteri",
+            "kuopion viulukilpailu",
+            "pohjois-kymen musiikkiopisto",
+            "sibelius-akatemia"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "kuopio",
+            "neighborhood": ""
+        }
+    },
+    "article 2": {
+        "people": [
+            "mika haiko"
+        ],
+        "locations": [
+            "etel\u00e4-karjala",
+            "imatra",
+            "lappeenranta",
+            "mansikkatie",
+            "rauha",
+            "repokivi"
+        ],
+        "organisations": [
+            "attendo havurinne",
+            "etel\u00e4-karjalan keskussairaala",
+            "hieronta mixu",
+            "lappeen hierojakoulu"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "lappeenranta",
+            "neighborhood": "repokivi"
+        }
+    },
+    "article 3": {
+        "people": [
+            "aino kyll\u00f6nen",
+            "eemeli s\u00e4llstr\u00f6m",
+            "ella mykk\u00e4nen",
+            "erja heiskanen",
+            "esko lehtonen",
+            "essi lappetel\u00e4inen",
+            "hannah smart",
+            "harri hynynen",
+            "heini k\u00e4rkk\u00e4inen",
+            "henri s\u00e4is\u00e4",
+            "katariina k\u00e4rkk\u00e4inen",
+            "katja aminoff-tyni",
+            "lasse vornanen",
+            "leena saastamoinen",
+            "leo lappalainen",
+            "liisa pet\u00e4j\u00e4",
+            "niilo kouvalainen",
+            "markus montalto",
+            "matti vornanen",
+            "peetu leskinen",
+            "peetu korhonen",
+            "pekka partanen",
+            "pekka nissinen",
+            "rico kettunen",
+            "saku niskanen",
+            "sanni penttinen",
+            "sini karjalainen",
+            "tiina-liisa liukkonen",
+            "veera juntunen",
+            "vilma ryytty"
+        ],
+        "locations": [
+            "iisalmi",
+            "kiuruvesi",
+            "parkatti",
+            "yl\u00e4-savo"
+        ],
+        "organisations": [
+            "bc liike",
+            "iisalmen judoseura",
+            "iisalmen kaupunki",
+            "iisalmen naisvoimistelijat",
+            "iisalmen uimarit",
+            "iisalmen visa",
+            "kiuruveden urheilijat",
+            "klubi-36",
+            "liikuntaseura ote",
+            "pallo-kerho 37",
+            "sivistys- ja hyvinvointilautakunta",
+            "sulkasato iisalmi",
+            "vapaaotteluseura nhb",
+            "yl\u00e4-savon ensi- ja turvakotiyhdistys",
+            "yl\u00e4-savon moottorikerho"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "iisalmi",
+            "neighborhood": ""
+        }
+    },
+    "article 4": {
+        "people": [
+            "anna keskisaari",
+            "antti kosonen"
+        ],
+        "locations": [
+            "belgia",
+            "englannin kanaali",
+            "espanja",
+            "eurooppa",
+            "hannover",
+            "hampuri",
+            "helsinki",
+            "hollanti",
+            "imatra",
+            "joutseno",
+            "j\u00fclich",
+            "jyv\u00e4skyl\u00e4",
+            "kaatsheuvel",
+            "kaisersesch",
+            "karlsruhe",
+            "kiel",
+            "k\u00f6\u00f6penhamina",
+            "lappeenranta",
+            "le havre",
+            "l\u00fcbeck",
+            "lyypekki",
+            "meltola",
+            "ranska",
+            "reims",
+            "ruotsi",
+            "saksa",
+            "stuttgart",
+            "suomi",
+            "s\u00f8nderborg",
+            "tanska",
+            "travem\u00fcnde",
+            "tukholma",
+            "ven\u00e4j\u00e4"
+        ],
+        "organisations": [
+            "airbnb",
+            "booking.com",
+            "finnlady",
+            "lut-yliopisto",
+            "lut-yliopiston ja ammatillisen koulutuksen tukis\u00e4\u00e4ti\u00f6",
+            "silja serenade"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "imatra",
+            "neighborhood": ""
+        }
+    },
+    "article 5": {
+        "people": [
+            "antti jokikokko",
+            "elias huttunen",
+            "henri schmidt",
+            "jarkko nevalainen",
+            "joonas savolainen",
+            "jussi kumpulainen",
+            "neea hoffren",
+            "tiina viinikainen"
+        ],
+        "locations": [
+            "hamula",
+            "kehvo",
+            "lieksa",
+            "p\u00f6lj\u00e4",
+            "siilinj\u00e4rvi",
+            "suomi",
+            "vuorela"
+        ],
+        "organisations": [
+            "hamulan koulu",
+            "kehvon koulu",
+            "pikku-marjan kirjastoauto",
+            "p\u00f6lj\u00e4n koulu",
+            "siilinj\u00e4rven kunta"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "siilinj\u00e4rvi",
+            "neighborhood": ""
+        }
+    },
+    "article 6": {
+        "people": [
+            "alex peters",
+            "antoine morand",
+            "eetu tuulola",
+            "filip lindberg",
+            "harri kainulainen",
+            "heikki huttunen",
+            "henri ikonen",
+            "jakob stenqvist",
+            "jami krannila",
+            "joni ortio",
+            "karson kuhlman",
+            "kim nousiainen",
+            "kyle topping",
+            "linus nyman",
+            "niclas almari",
+            "mikko manner",
+            "miro ruokonen",
+            "patrick khodorenko",
+            "petteri nikkil\u00e4",
+            "sami p\u00e4iv\u00e4rinta",
+            "samuli aaltonen",
+            "sebastian repo",
+            "teemu rautiainen",
+            "vili alitalo"
+        ],
+        "locations": [
+            "mikkeli",
+            "rauma",
+            "rinkelinm\u00e4ki"
+        ],
+        "organisations": [
+            "hpk",
+            "mikkelin jukurit",
+            "rauman lukko"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "h\u00e4meenlinna",
+            "neighborhood": "rinkelinm\u00e4ki"
+        }
+    },
+    "article 7": {
+        "people": [
+            "anni repo",
+            "auri kananen",
+            "satu r\u00e4m\u00f6"
+        ],
+        "locations": [
+            "hallikkala",
+            "imatra",
+            "saimaa",
+            "suomi",
+            "rasila",
+            "ruokolahti",
+            "virasoja"
+        ],
+        "organisations": [
+            "honkalahden saha",
+            "remonttikenk\u00e4",
+            "stora enso",
+            "suomen kerta oy",
+            "the voima"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "imatra",
+            "neighborhood": "hallikkala"
+        }
+    },
+    "article 8": {
+        "people": [
+            "reijo savolainen",
+            "tuomas maljanen"
+        ],
+        "locations": [
+            "erkyl\u00e4nkatu",
+            "hyvink\u00e4\u00e4",
+            "pajatie",
+            "sahanm\u00e4ki",
+            "tienhaarankuja",
+            "tienhaarankatu",
+            "vesitorninkatu"
+        ],
+        "organisations": [
+            "hyvink\u00e4\u00e4n kaupunki",
+            "lumo kodit",
+            "m2-kodit",
+            "rautatieasunnot oy",
+            "vr",
+            "vvo",
+            "y-s\u00e4\u00e4ti\u00f6"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "hyvink\u00e4\u00e4",
+            "neighborhood": "sahanm\u00e4ki"
+        }
+    },
+    "article 9": {
+        "people": [],
+        "locations": [
+            "hiekkaharju",
+            "lahti",
+            "suomi",
+            "tanska",
+            "vantaa"
+        ],
+        "organisations": [],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "vantaa",
+            "neighborhood": "hiekkaharju"
+        }
+    },
+    "article 10": {
+        "people": [
+            "jukka pekka laru",
+            "suvi laru"
+        ],
+        "locations": [],
+        "organisations": [
+            "parisuhdekeskus kataja",
+            "wsoy"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "",
+            "neighborhood": ""
+        }
+    },
+    "article 11": {
+        "people": [],
+        "locations": [
+            "suomi"
+        ],
+        "organisations": [],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "",
+            "neighborhood": ""
+        }
+    },
+    "article 12": {
+        "people": [
+            "jonne virtanen",
+            "marko tuomainen",
+            "jukka ahvenjärvi",
+            "jesse welling",
+            "riku helenius",
+            "mikko hakkarainen",
+            "pekka kangasalusta",
+            "marko kauppinen",
+            "jari kauppila",
+            "risto dufva",
+            "olli jokinen"
+        ],
+        "locations": [
+            "mikkeli",
+            "iisalmi",
+            "länsi-savo",
+            "suomi"
+        ],
+        "organisations": [
+            "mikkelin jukurit",
+            "tuto",
+            "ipk",
+            "jyp",
+            "saipa",
+            "lukko",
+            "tps",
+            "sport",
+            "mestis"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "mikkeli",
+            "neighborhood": ""
+        }
+    },
+    "article 13": {
+        "people": [
+            "tiina arminen"
+        ],
+        "locations": [
+            "savonlinna",
+            "suomi",
+            "turku",
+            "tampere",
+            "eurooppa"
+        ],
+        "organisations": [
+            "itä-savo"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "savonlinna",
+            "neighborhood": ""
+        }
+    },
+    "article 14": {
+        "people": [
+            "tomi tulisalmi",
+            "jaajo linnonmaa",
+            "niko häkli",
+            "mikko helin",
+            "erika kaipainen",
+            "sara montonen",
+            "nina hirvensalo",
+            "peik jäntti",
+            "arttu seppälä",
+            "marika taitokari",
+            "otso kivimäki",
+            "lassi erkko",
+            "laura kietäväinen",
+            "joona-kim wiiala",
+            "milla grönstrand",
+            "jaana heiskanen",
+            "freja hartman",
+            "aini mäensivu",
+            "salme kokko"
+        ],
+        "locations": [
+            "hämeenlinna",
+            "riihimäki",
+            "turenki",
+            "lyylinpuisto",
+            "helsinki",
+            "kasarmitori"
+        ],
+        "organisations": [
+            "hämeen sanomat",
+            "diili",
+            "superterassi",
+            "riihimäen seurahuone",
+            "hämeenlinnan toriterassi",
+            "lyylipuiston kesäterassi",
+            "riihimäen ravintola havu",
+            "turengin lyylinpuiston kesäterassi",
+            "ravintola havu"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "helsinki",
+            "neighborhood": "kasarmitori"
+        }
+    },
+     "article 15": {
+        "people": [
+            "klaus härö",
+            "ilkka matila",
+            "ville virtanen",
+            "kari hietalahti",
+            "carl-kristian rundman",
+            "elina suominen",
+            "rony smolar",
+            "jimmy karlsson",
+            "rony herman",
+            "naemi latzer",
+            "hannu-pekka björkman",
+            "satu tuuli karhu",
+            "toni rasinkangas",
+            "joe dante",
+            "steffen haars",
+            "nick frost",
+            "eero milonoff",
+            "ilkka koivula",
+            "jouko ahola",
+            "aki kaurismäki",
+            "juho kuosmanen",
+            "nina hukkinen"
+        ],
+        "locations": [
+            "suomi",
+            "saksa",
+            "sodankylä",
+            "puola",
+            "auschwitz",
+            "helsinki",
+            "hämeenlinna",
+            "bulevardi",
+            "viiskulma",
+            "viro",
+            "itävalta",
+            "ruotsi",
+            "tallinna",
+            "pohjois-amerikka",
+            "palm springs",
+            "hollywood",
+            "tampere",
+            "hollanti"
+        ],
+        "organisations": [
+            "suomen valtiollinen poliisi",
+            "gestapo"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "",
+            "neighborhood": ""
+        }
+    },
+    "article 16": {
+        "people": [
+            "jussi nuoramo",
+            "ismo korhonen"
+        ],
+        "locations": [
+            "mikkeli",
+            "suomi"
+        ],
+        "organisations": [
+            "est vartiointi",
+            "poliisi"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "mikkeli",
+            "neighborhood": ""
+        }
+    },
+    "article 17": {
+        "people": [
+            "jenni höijer",
+            "tero höijer",
+            "karoliina frank",
+            "tapio vekka",
+            "raija salminen"
+        ],
+        "locations": [
+            "hattula",
+            "katinala",
+            "hämeenlinna",
+            "jukola",
+            "suomi",
+            "kanta-häme",
+            "kauksaarentie",
+            "helsinki"
+        ],
+        "organisations": [
+            "soma-kakkusoppi",
+            "katinalan lihakauppa",
+            "villa marenki",
+            "matin ja maijan majatalo",
+            "cafe luna",
+            "sokerileipuri suominen ky",
+            "suomisen kahvilat oy",
+            "jukolan cafe & bakery",
+            "hattulan valtuusto",
+            "hämeen sanomat",
+            "kanta-hämeen puutarhakeskus",
+            "katinkolo",
+            "kokoomus",
+            "s-market"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "hattula",
+            "neighborhood": "katinala"
+        }
+    },
+    "article 18": {
+        "people": [
+            "pauliina paananen",
+            "jouko pihlava",
+            "risto kortetjärvi",
+            "elvi ritvasta",
+            "harry marttinen",
+            "sirpa marttinen"
+        ],
+        "locations": [
+            "hankasalmi",
+            "kallioaho",
+            "paanala"
+        ],
+        "organisations": [
+            "hankasalmen sanomat",
+            "la sega del canto",
+            "makkosen maitotila",
+            "aseman kyläkauppa",
+            "sepän galleria"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "hankasalmi",
+            "neighborhood": ""
+        }
+    },
+    "article 19": {
+        "people": [
+            "jaakko jokinen",
+            "pedro hietanen"
+        ],
+        "locations": [
+            "kuusankoski",
+            "kuusaa",
+            "voikkaa",
+            "kuusanniemi",
+            "jaala",
+            "valkeakoski",
+            "tampere",
+            "neuvostoliitto",
+            "myllykoski",
+            "kouvola",
+            "savossa",
+            "savo",
+            "kymenlaakso",
+            "juankoski",
+            "kymijoki",
+            "vuoksi",
+            "viipuri",
+            "suomi"
+        ],
+        "organisations": [
+            "pravda",
+            "izvestija",
+            "pöyry",
+            "upm",
+            "myllykoski paperi",
+            "momentum-kustantamo",
+            "tampereen yliopisto",
+            "kuusankosken kirjasto",
+            "voikkaan paperitehdas"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "kouvola",
+            "neighborhood": "kuusankoski"
+        }
+    },
+    "article 20": {
+        "people": [],
+        "locations": [
+            "vantaa",
+            "suomi"
+        ],
+        "organisations": [
+            "vantaan sanomat"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "vantaa",
+            "neighborhood": ""
+        }
+    },
+    "article 21": {
+        "people": [
+            "eeva lankolainen",
+            "iiro viinanen",
+            "sanna kajander-ruuth",
+            "francis fukuyama",
+            "sanna marin",
+            "elina valtonen",
+            "antti häkkänen",
+            "sanni grahn-laasonen",
+            "li andersson",
+            "antti hurskainen",
+            "martti ahtisaari",
+            "armi kuusela",
+            "lola odusoga",
+            "nicholas negroponte"
+        ],
+        "locations": [
+            "berliini",
+            "ddr",
+            "suomi",
+            "bryssel",
+            "eurooppa",
+            "yhdysvallat",
+            "neuvostoliitto",
+            "wembley"
+        ],
+        "organisations": [
+            "oasis",
+            "wembley stadium",
+            "ddr-museo",
+            "euroopan unioni",
+            "perussuomalaiset",
+            "metallica",
+            "the beatles",
+            "savon sanomat",
+            "yhdysvaltain kansalaisoikeusliike",
+            "pride-liike"
+        ],
+        "hyperlocation": {
+            "country": "",
+            "city": "",
+            "neighborhood": ""
+        }
+    },
+    "article 22": {
+        "people": [
+            "samppa hartikainen",
+            "hanna ronkainen",
+            "vesa-matti loiri",
+            "klaus torttila"
+        ],
+        "locations": [
+            "mommila",
+            "hausjärvi",
+            "suomi"
+        ],
+        "organisations": [
+            "mommilan kyläpuoti",
+            "papa's smokery bbq",
+            "esson baari"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "hausjärvi",
+            "neighborhood": "mommila"
+        }
+    },
+    "article 23": {
+        "people": [
+            "jenna ritvanen"
+        ],
+        "locations": [
+            "kuopio",
+            "suomi"
+        ],
+        "organisations": [
+            "kuntokeskus alfido",
+            "yle",
+            "kalpa",
+            "turmion kätilöt"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "kuopio",
+            "neighborhood": ""
+        }
+    },
+    "article 24": {
+        "people": [
+            "paavo honkajuuri",
+            "jouko kärkkäinen",
+            "urho kekkonen",
+            "abderrazzak chaouki"
+        ],
+        "locations": [
+            "hämeenlinna",
+            "kirstula",
+            "nokia",
+            "tampere"
+        ],
+        "organisations": [
+            "taysin sairaala",
+            "hämeen sanomat"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "nokia",
+            "neighborhood": ""
+        }
+    },
+    "article 25": {
+        "people": [
+            "tapio vekka",
+            "karoliina frank",
+            "timo lahti",
+            "sari franssila"
+        ],
+        "locations": [
+            "hämeenlinna"
+        ],
+        "organisations": [
+            "hämeenlinnan kaupunki",
+            "hämeenlinnan kaupunki lupavalvonta",
+            "hämeen sanomat"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "hämeenlinna",
+            "neighborhood": ""
+        }
+    },
+    "article 26": {
+        "people": [
+            "jukka sompi",
+            "joni kantonen",
+            "tuomas ukkonen",
+            "mike suviranta",
+            "eino mannila",
+            "eino salonen",
+            "mikko salonen"
+        ],
+        "locations": [
+            "sysmä",
+            "hartola",
+            "lahti"
+        ],
+        "organisations": [
+            "sysmän sisu",
+            "sysmän kunta",
+            "lahden pelicans"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "sysmä",
+            "neighborhood": ""
+        }
+    },
+    "article 27": {
+        "people": [],
+        "locations": [
+            "heinola",
+            "jyväskylä",
+            "lahti",
+            "hollola",
+            "orimattila",
+            "kärkölä",
+            "padasjoki",
+            "sysmä",
+            "päijät-häme"
+        ],
+        "organisations": [
+            "lahden seudun joukkoliikennelautakunta",
+            "lahden kaupunki",
+            "heinola",
+            "hollola",
+            "orimattila",
+            "kärkölä",
+            "padasjoki",
+            "sysmä",
+            "lahden seudun liikenne"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "heinola",
+            "neighborhood": ""
+        }
+    },
+    "article 28": {
+        "people": [],
+        "locations": [
+            "heinola",
+            "heinolan havaintoasema",
+            "kuopio",
+            "savukoski",
+            "tulppio",
+            "tulppion havaintoasema",
+            "pori",
+            "virolahti",
+            "koivuniemi",
+            "hailuoto",
+            "keskikylä",
+            "pohjois-karjala",
+            "tornio",
+            "enontekiö",
+            "kilpisjärvi",
+            "suomi",
+            "puolanka",
+            "paljakka",
+            "keski-lappi",
+            "pohjois-lappi",
+            "enontekiön lentoasema",
+            "asemantauksen havaintoasema",
+            "porin lentoasema"
+        ],
+        "organisations": [
+            "ilmatieteen laitos"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "",
+            "neighborhood": ""
+        }
+    },
+    "article 29": {
+        "people": [
+            "birgit aikio",
+            "markku kuusisto"
+        ],
+        "locations": [
+            "kanta-häme",
+            "hämeenlinna",
+            "viipurintie",
+            "riihimäki",
+            "forssa",
+            "janakkala",
+            "suomi"
+        ],
+        "organisations": [
+            "kanta-hämeen hyvinvointialue",
+            "kanta-hämeen keskussairaala",
+            "oma häme",
+            "fimlab"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "",
+            "neighborhood": ""
+        }
+    },
+    "article 30": {
+        "people": [
+            "jaana pirskanen"
+        ],
+        "locations": [
+            "luumäki",
+            "kaakkois-suomi",
+            "etelä-karjala",
+            "etelä-savo",
+            "kymenlaakso",
+            "kuutostie",
+            "joutseno",
+            "nuijamaa",
+            "suo-anttilantie",
+            "savitaipale",
+            "marttila",
+            "lemi",
+            "sorvarila",
+            "heituinlahti",
+            "hietamies",
+            "mäntyharju",
+            "voikoski",
+            "kouvola",
+            "kuusankoski",
+            "kotiharju",
+            "kymintehdas",
+            "lappeenranta",
+            "lipiälä"
+        ],
+        "organisations": [
+            "tassutiimi ry"
+        ],
+        "hyperlocation": {
+            "country": "suomi",
+            "city": "luumäki",
+            "neighborhood": ""
+        }
+    }
+}
