@@ -7,12 +7,8 @@ Folder for the analytics of the articles for the Archive database.
 
 To run the analytics service with Poetry, you need to have [Poetry](https://python-poetry.org/docs/#installation) installed on your machine. 
 
-You need to have set up the following environmental variables in .env:
-```
-AZURE_OPENAI_CHAT_ENDPOINT = "your_azure_endpoint"
+In order to call the relevant LLM API, you have to set up the keys in .env.
 
-AZURE_OPENAI_API_KEY = "your_azure_api_key"
-```
 Run the following command inside this folder to install the dependencies:
 ```shell
 source .venv/bin/activate
