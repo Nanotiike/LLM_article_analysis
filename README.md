@@ -3,19 +3,6 @@
 
 Folder for the analytics of the articles for the Archive database. 
 
-## Running with Docker
-
-To run the analytics service with Docker, you need to have [Docker](https://www.docker.com/products/docker-desktop/) installed on your machine. Run the following command in the root of the repository to build and run the Docker image:
-```shell
-docker build -t ark-backend-analytics:latest -f backend_analytics/Dockerfile . 
-```
-After that, you can run a container from the image with the following command:
-```shell
-docker run -it -p 8000:8000 ark-backend-analytics
-```
-
-__Note that the build context needs to be the root of the repository, since the shared library needs to be included as well. The Rest of the setup is handled by the Dockerfile.__
-
 ## Running with Poetry
 
 To run the analytics service with Poetry, you need to have [Poetry](https://python-poetry.org/docs/#installation) installed on your machine. 
